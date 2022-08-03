@@ -1,4 +1,4 @@
-# Final_Project
+# Nba_data_analysis
 
 In this project, I applied manipulation, cleaning, analysis and visualization operations on various csv files using pandas, numpy and math plot libraries. The csv files mentioned contained NBA-related game, player, match, team and score information.
 
